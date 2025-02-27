@@ -25,8 +25,10 @@ A Django REST API that supports user authentication (JWT), referral tracking, an
 
 ## 🚀 Installation Guide  
 
-### 🔹 **1️⃣ Clone the Repository**
 ```bash
+
+ 🔹 1️⃣ Clone the Repository
+ 
 git clone https://github.com/YOUR_GITHUB_USERNAME/linktree-backend.git
 cd linktree-backend
 
