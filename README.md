@@ -5,12 +5,12 @@ A Django REST API that supports user authentication (JWT), referral tracking, an
 ---
 
 ## 🛠 Features
-- ✅ **User Authentication (JWT-based Login & Registration)**
-- ✅ **Referral System** (Users can register with a referral code)
-- ✅ **User Profile API** (Get user details & referral count)
-- ✅ **PostgreSQL Integration**
-- ✅ **API Documentation with Swagger (`drf-spectacular`)**
-- ✅ **Secure Rate Limiting (`django_ratelimit`)**
+✅ **User Authentication (JWT-based Login & Registration)**
+✅ **Referral System** (Users can register with a referral code)
+✅ **User Profile API** (Get user details & referral count)
+✅ **PostgreSQL Integration**
+✅ **API Documentation with Swagger (`drf-spectacular`)**
+✅ **Secure Rate Limiting (`django_ratelimit`)**
 
 ---
 
